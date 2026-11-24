@@ -1,0 +1,7 @@
+{
+  "partner_id": "hotelco",
+  "source_file": "late_partner_feed.json",
+  "received_at": "2026-11-24T23:59:00",
+  "expected_by": "2026-11-24T18:00:00",
+  "note": "SIMULATED late feed marker for monitoring demonstration"
+}

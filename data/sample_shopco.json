@@ -1,0 +1,6005 @@
+[
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00002",
+    "member_id": "M0015",
+    "amount": 96.57,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00005",
+    "member_id": "M0100",
+    "amount": 261.72,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00008",
+    "member_id": "M0042",
+    "amount": 185.56,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00011",
+    "member_id": "M0035",
+    "amount": 479.87,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00014",
+    "member_id": "M0062",
+    "amount": 243.29,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00017",
+    "member_id": "M0087",
+    "amount": 480.68,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00020",
+    "member_id": "M0043",
+    "amount": 191.06,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00023",
+    "member_id": "M0095",
+    "amount": 345.04,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00026",
+    "member_id": "M0029",
+    "amount": 442.74,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00029",
+    "member_id": "M0073",
+    "amount": 107.53,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00032",
+    "member_id": "M0098",
+    "amount": 33.51,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00035",
+    "member_id": "M0080",
+    "amount": 328.22,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00038",
+    "member_id": "M0068",
+    "amount": 316.97,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00041",
+    "member_id": "M0043",
+    "amount": 277.71,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00044",
+    "member_id": "M0058",
+    "amount": 45.66,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00047",
+    "member_id": "M0051",
+    "amount": 328.99,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00050",
+    "member_id": "M0069",
+    "amount": 256.55,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00053",
+    "member_id": "M0035",
+    "amount": 433.45,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00056",
+    "member_id": "M0047",
+    "amount": 268.51,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00059",
+    "member_id": "M0082",
+    "amount": 344.82,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00062",
+    "member_id": "M0058",
+    "amount": 117.66,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00065",
+    "member_id": "M0090",
+    "amount": 113.82,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00068",
+    "member_id": "M0069",
+    "amount": 255.7,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00071",
+    "member_id": "M0089",
+    "amount": 42.62,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00074",
+    "member_id": "M0005",
+    "amount": 399.88,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00077",
+    "member_id": "M0055",
+    "amount": 352.02,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00080",
+    "member_id": "M0039",
+    "amount": 139.05,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00083",
+    "member_id": "M0058",
+    "amount": 457.69,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00086",
+    "member_id": "M0064",
+    "amount": 497.21,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00089",
+    "member_id": "M0029",
+    "amount": 245.36,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00092",
+    "member_id": "M0040",
+    "amount": 26.17,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00095",
+    "member_id": "M0039",
+    "amount": 19.53,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00098",
+    "member_id": "M0057",
+    "amount": 253.57,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00101",
+    "member_id": "M0044",
+    "amount": 418.79,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00104",
+    "member_id": "M0010",
+    "amount": 161.8,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00107",
+    "member_id": "M0010",
+    "amount": 481.77,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00110",
+    "member_id": "M0064",
+    "amount": 64.81,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00113",
+    "member_id": "M0002",
+    "amount": 201.46,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00116",
+    "member_id": "M0078",
+    "amount": 293.19,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00119",
+    "member_id": "M0067",
+    "amount": 339.72,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00122",
+    "member_id": "M0027",
+    "amount": 56.88,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00125",
+    "member_id": "M0049",
+    "amount": 351.07,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00128",
+    "member_id": "M0018",
+    "amount": 16.73,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00131",
+    "member_id": "M0043",
+    "amount": 440.13,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00134",
+    "member_id": "M0021",
+    "amount": 422.32,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00137",
+    "member_id": "M0040",
+    "amount": 128.53,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00140",
+    "member_id": "M0025",
+    "amount": 250.06,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00143",
+    "member_id": "M0001",
+    "amount": 20.88,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00146",
+    "member_id": "M0030",
+    "amount": 356.09,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00149",
+    "member_id": "M0039",
+    "amount": 320.74,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00152",
+    "member_id": "M0006",
+    "amount": 391.11,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00155",
+    "member_id": "M0064",
+    "amount": 181.75,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00158",
+    "member_id": "M0005",
+    "amount": 394.48,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00161",
+    "member_id": "M0024",
+    "amount": 60.2,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00164",
+    "member_id": "M0023",
+    "amount": 181.95,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00167",
+    "member_id": "M0015",
+    "amount": 481.99,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00170",
+    "member_id": "M0091",
+    "amount": 399.28,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00173",
+    "member_id": "M0067",
+    "amount": 200.87,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00176",
+    "member_id": "M0056",
+    "amount": 58.75,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00179",
+    "member_id": "M0016",
+    "amount": 262.08,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00182",
+    "member_id": "M0017",
+    "amount": 73.36,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00185",
+    "member_id": "M0080",
+    "amount": 25.24,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00188",
+    "member_id": "M0048",
+    "amount": 238.71,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00191",
+    "member_id": "M0083",
+    "amount": 49.83,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00194",
+    "member_id": "M0088",
+    "amount": 392.17,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00197",
+    "member_id": "M0041",
+    "amount": 80.71,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00200",
+    "member_id": "M0004",
+    "amount": 332.52,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00203",
+    "member_id": "M0012",
+    "amount": 407.64,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00206",
+    "member_id": "M0096",
+    "amount": 87.61,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00209",
+    "member_id": "M0055",
+    "amount": 484.65,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00212",
+    "member_id": "M0019",
+    "amount": 82.41,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00215",
+    "member_id": "M0034",
+    "amount": 162.45,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00218",
+    "member_id": "M0005",
+    "amount": 202.07,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00221",
+    "member_id": "M0008",
+    "amount": 472.55,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00224",
+    "member_id": "M0041",
+    "amount": 313.93,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00227",
+    "member_id": "M0007",
+    "amount": 311.85,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00230",
+    "member_id": "M0075",
+    "amount": 192.89,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00233",
+    "member_id": "M0079",
+    "amount": 312.73,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00236",
+    "member_id": "M0008",
+    "amount": 420.58,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00239",
+    "member_id": "M0031",
+    "amount": 365.21,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00242",
+    "member_id": "M0017",
+    "amount": 94.84,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00245",
+    "member_id": "M0006",
+    "amount": 315.1,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00248",
+    "member_id": "M0028",
+    "amount": 49.29,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00251",
+    "member_id": "M0044",
+    "amount": 496.15,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00254",
+    "member_id": "M0037",
+    "amount": 196.11,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00257",
+    "member_id": "M0015",
+    "amount": 186.95,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00260",
+    "member_id": "M0018",
+    "amount": 235.65,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00263",
+    "member_id": "M0082",
+    "amount": 43.02,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00266",
+    "member_id": "M0094",
+    "amount": 377.86,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00269",
+    "member_id": "M0088",
+    "amount": 114.16,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00272",
+    "member_id": "M0038",
+    "amount": 132.68,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00275",
+    "member_id": "M0092",
+    "amount": 174.02,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00278",
+    "member_id": "M0023",
+    "amount": 46.93,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00281",
+    "member_id": "M0044",
+    "amount": 490.09,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00284",
+    "member_id": "M0020",
+    "amount": 308.32,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00287",
+    "member_id": "M0025",
+    "amount": 23.1,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00290",
+    "member_id": "M0009",
+    "amount": 362.56,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00293",
+    "member_id": "M0004",
+    "amount": 272.32,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00296",
+    "member_id": "M0047",
+    "amount": 168.07,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00299",
+    "member_id": "M0099",
+    "amount": 157.51,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00002",
+    "member_id": "M0064",
+    "amount": 13.36,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00005",
+    "member_id": "M0089",
+    "amount": 294.75,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00308",
+    "member_id": "M0063",
+    "amount": 375.31,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00311",
+    "member_id": "M0024",
+    "amount": 192.71,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00314",
+    "member_id": "M0014",
+    "amount": 49.01,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00317",
+    "member_id": "M0077",
+    "amount": 168.3,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00320",
+    "member_id": "M0017",
+    "amount": 82.77,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00323",
+    "member_id": "M0050",
+    "amount": 424.88,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00326",
+    "member_id": "M0059",
+    "amount": 464.82,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00329",
+    "member_id": "M0035",
+    "amount": 62.31,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00332",
+    "member_id": "M0060",
+    "amount": 445.56,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00335",
+    "member_id": "M0054",
+    "amount": 465.02,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00338",
+    "member_id": "M0060",
+    "amount": 324.36,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00341",
+    "member_id": "M0079",
+    "amount": 31.51,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00344",
+    "member_id": "M0056",
+    "amount": 114.76,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00347",
+    "member_id": "M0074",
+    "amount": 203.28,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00350",
+    "member_id": "M0023",
+    "amount": 23.68,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00353",
+    "member_id": "M0011",
+    "amount": 64.55,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00356",
+    "member_id": "M0086",
+    "amount": 255.59,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00359",
+    "member_id": "M0010",
+    "amount": 435.5,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00362",
+    "member_id": "M0038",
+    "amount": 273.43,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00365",
+    "member_id": "M0074",
+    "amount": 348.66,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00368",
+    "member_id": "M0047",
+    "amount": 222.73,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00371",
+    "member_id": "M0015",
+    "amount": 307.26,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00374",
+    "member_id": "M0064",
+    "amount": 265.04,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00377",
+    "member_id": "M0043",
+    "amount": 129.8,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00380",
+    "member_id": "M0009",
+    "amount": 286.81,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00383",
+    "member_id": "M0041",
+    "amount": 119.61,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00386",
+    "member_id": "M0059",
+    "amount": 157.66,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00389",
+    "member_id": "M0017",
+    "amount": 160.18,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00392",
+    "member_id": "M0086",
+    "amount": 173.14,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00395",
+    "member_id": "M0071",
+    "amount": 109.67,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00398",
+    "member_id": "M0053",
+    "amount": 470.03,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00401",
+    "member_id": "M0058",
+    "amount": 303.75,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00404",
+    "member_id": "M0015",
+    "amount": 236.15,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00407",
+    "member_id": "M0008",
+    "amount": 400.45,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00410",
+    "member_id": "M0094",
+    "amount": 39.47,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00413",
+    "member_id": "M0075",
+    "amount": 429.76,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00416",
+    "member_id": "M0029",
+    "amount": 123.6,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00419",
+    "member_id": "M0073",
+    "amount": 188.29,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00422",
+    "member_id": "M0017",
+    "amount": 224.44,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00425",
+    "member_id": "M0075",
+    "amount": 403.42,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00428",
+    "member_id": "M0046",
+    "amount": 52.71,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00431",
+    "member_id": "M0070",
+    "amount": 163.34,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00434",
+    "member_id": "M0046",
+    "amount": 204.92,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00437",
+    "member_id": "M0096",
+    "amount": 132.01,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00440",
+    "member_id": "M0062",
+    "amount": 387.06,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00443",
+    "member_id": "M0088",
+    "amount": 139.66,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00446",
+    "member_id": "M0088",
+    "amount": 327.35,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00449",
+    "member_id": "M0086",
+    "amount": 10.18,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00452",
+    "member_id": "M0047",
+    "amount": 313.37,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00455",
+    "member_id": "M0095",
+    "amount": 67.54,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00458",
+    "member_id": "M0056",
+    "amount": 186.28,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00461",
+    "member_id": "M0052",
+    "amount": 156.6,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00464",
+    "member_id": "M0043",
+    "amount": 109.33,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00467",
+    "member_id": "M0093",
+    "amount": 77.06,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00470",
+    "member_id": "M0060",
+    "amount": 418.95,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00473",
+    "member_id": "M0029",
+    "amount": 184.61,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00476",
+    "member_id": "M0089",
+    "amount": 90.63,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00479",
+    "member_id": "M0024",
+    "amount": 203.12,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00482",
+    "member_id": "M0050",
+    "amount": 451.82,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00485",
+    "member_id": "M0055",
+    "amount": 476.96,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00488",
+    "member_id": "M0099",
+    "amount": 246.11,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00491",
+    "member_id": "M0049",
+    "amount": 190.5,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00494",
+    "member_id": "M0068",
+    "amount": 498.5,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00497",
+    "member_id": "M0053",
+    "amount": 50.32,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00500",
+    "member_id": "M0008",
+    "amount": 246.83,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00503",
+    "member_id": "M0076",
+    "amount": 453.58,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00506",
+    "member_id": "M0091",
+    "amount": 463.94,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00509",
+    "member_id": "M0021",
+    "amount": 278.48,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00512",
+    "member_id": "M0096",
+    "amount": 172.9,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00515",
+    "member_id": "M0003",
+    "amount": 420.51,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00518",
+    "member_id": "M0082",
+    "amount": 201.66,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00521",
+    "member_id": "M0011",
+    "amount": 31.94,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00524",
+    "member_id": "M0099",
+    "amount": 337.0,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00527",
+    "member_id": "M0097",
+    "amount": 289.21,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00530",
+    "member_id": "M0026",
+    "amount": 206.01,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00533",
+    "member_id": "M0091",
+    "amount": 160.09,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00536",
+    "member_id": "M0015",
+    "amount": 285.89,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00539",
+    "member_id": "M0086",
+    "amount": 78.04,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00542",
+    "member_id": "M0001",
+    "amount": 351.94,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00545",
+    "member_id": "M0062",
+    "amount": 265.89,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00548",
+    "member_id": "M0010",
+    "amount": 466.6,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00551",
+    "member_id": "M0060",
+    "amount": 363.92,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00554",
+    "member_id": "M0034",
+    "amount": 118.55,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00557",
+    "member_id": "M0038",
+    "amount": 214.49,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00560",
+    "member_id": "M0097",
+    "amount": 21.0,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00563",
+    "member_id": "M0058",
+    "amount": 114.65,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00566",
+    "member_id": "M0094",
+    "amount": 434.39,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00569",
+    "member_id": "M0063",
+    "amount": 344.87,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00572",
+    "member_id": "M0017",
+    "amount": 346.32,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00575",
+    "member_id": "M0022",
+    "amount": 302.31,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00578",
+    "member_id": "M0086",
+    "amount": 439.4,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00581",
+    "member_id": "M0088",
+    "amount": 325.13,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00584",
+    "member_id": "M0013",
+    "amount": 266.98,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00587",
+    "member_id": "M0021",
+    "amount": 494.89,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00590",
+    "member_id": "M0010",
+    "amount": 442.29,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00593",
+    "member_id": "M0062",
+    "amount": 108.26,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00596",
+    "member_id": "M0100",
+    "amount": 403.45,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00599",
+    "member_id": "M0063",
+    "amount": 151.63,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00602",
+    "member_id": "",
+    "amount": 286.74,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00605",
+    "member_id": "",
+    "amount": 166.68,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00608",
+    "member_id": "M0066",
+    "amount": 456.43,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00611",
+    "member_id": "M0020",
+    "amount": 427.9,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00614",
+    "member_id": "M0058",
+    "amount": 315.61,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00617",
+    "member_id": "M0050",
+    "amount": 483.11,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00620",
+    "member_id": "M0093",
+    "amount": 208.14,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00623",
+    "member_id": "M0009",
+    "amount": 109.97,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00626",
+    "member_id": "M0090",
+    "amount": 33.43,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00629",
+    "member_id": "M0036",
+    "amount": 459.54,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00632",
+    "member_id": "M0077",
+    "amount": 287.03,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00635",
+    "member_id": "M0010",
+    "amount": 118.97,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00638",
+    "member_id": "M0065",
+    "amount": 455.41,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00641",
+    "member_id": "M0029",
+    "amount": 233.81,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00644",
+    "member_id": "M0087",
+    "amount": 210.99,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00647",
+    "member_id": "M0075",
+    "amount": 486.15,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00650",
+    "member_id": "M0025",
+    "amount": 240.58,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00653",
+    "member_id": "M0059",
+    "amount": 136.97,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00656",
+    "member_id": "M0064",
+    "amount": 56.02,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00659",
+    "member_id": "M0039",
+    "amount": 398.43,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00662",
+    "member_id": "M0010",
+    "amount": 179.06,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00665",
+    "member_id": "M0076",
+    "amount": 97.73,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00668",
+    "member_id": "M0098",
+    "amount": 403.5,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00671",
+    "member_id": "M0099",
+    "amount": 167.66,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00674",
+    "member_id": "M0069",
+    "amount": 428.94,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00677",
+    "member_id": "M0059",
+    "amount": 332.58,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00680",
+    "member_id": "M0027",
+    "amount": 328.63,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00683",
+    "member_id": "M0055",
+    "amount": 41.34,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00686",
+    "member_id": "M0069",
+    "amount": 456.71,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00689",
+    "member_id": "M0038",
+    "amount": 214.36,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00692",
+    "member_id": "M0070",
+    "amount": 486.66,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00695",
+    "member_id": "M0048",
+    "amount": 216.74,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00698",
+    "member_id": "M0077",
+    "amount": 243.37,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00701",
+    "member_id": "M0025",
+    "amount": 18.78,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00704",
+    "member_id": "M0056",
+    "amount": 24.87,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00707",
+    "member_id": "M0019",
+    "amount": 268.28,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00710",
+    "member_id": "M0092",
+    "amount": 37.96,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00713",
+    "member_id": "M0027",
+    "amount": 78.25,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00716",
+    "member_id": "M0027",
+    "amount": 62.73,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00719",
+    "member_id": "M0094",
+    "amount": 411.43,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00722",
+    "member_id": "M0059",
+    "amount": 365.02,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00725",
+    "member_id": "M0042",
+    "amount": 62.19,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00728",
+    "member_id": "M0099",
+    "amount": 455.09,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00731",
+    "member_id": "M0091",
+    "amount": 316.93,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00734",
+    "member_id": "M0037",
+    "amount": 322.1,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00737",
+    "member_id": "M0019",
+    "amount": 182.63,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00740",
+    "member_id": "M0069",
+    "amount": 385.56,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00743",
+    "member_id": "M0086",
+    "amount": 499.08,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00746",
+    "member_id": "M0065",
+    "amount": 222.97,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00749",
+    "member_id": "M0028",
+    "amount": 468.13,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00752",
+    "member_id": "M0063",
+    "amount": 423.94,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00755",
+    "member_id": "M0062",
+    "amount": 479.17,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00758",
+    "member_id": "M0041",
+    "amount": 179.59,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00761",
+    "member_id": "M0064",
+    "amount": 13.34,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00764",
+    "member_id": "M0091",
+    "amount": 349.79,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00767",
+    "member_id": "M0039",
+    "amount": 275.7,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00770",
+    "member_id": "M0011",
+    "amount": 311.57,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00773",
+    "member_id": "M0037",
+    "amount": 474.18,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00776",
+    "member_id": "M0068",
+    "amount": 395.57,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00779",
+    "member_id": "M0029",
+    "amount": 95.52,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00782",
+    "member_id": "M0054",
+    "amount": 280.67,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00785",
+    "member_id": "M0067",
+    "amount": 84.31,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00788",
+    "member_id": "M0001",
+    "amount": 430.46,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00791",
+    "member_id": "M0046",
+    "amount": 340.06,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00794",
+    "member_id": "M0069",
+    "amount": 279.27,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00797",
+    "member_id": "M0069",
+    "amount": 478.13,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00800",
+    "member_id": "M0045",
+    "amount": 10.76,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00803",
+    "member_id": "M0067",
+    "amount": 218.81,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00806",
+    "member_id": "M0079",
+    "amount": 239.57,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00809",
+    "member_id": "M0020",
+    "amount": 317.77,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00812",
+    "member_id": "M0031",
+    "amount": 451.95,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00815",
+    "member_id": "M0018",
+    "amount": 320.71,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00818",
+    "member_id": "M0049",
+    "amount": 454.51,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00821",
+    "member_id": "M0070",
+    "amount": 232.98,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00824",
+    "member_id": "M0021",
+    "amount": 90.93,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00827",
+    "member_id": "M0084",
+    "amount": 105.66,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00830",
+    "member_id": "M0008",
+    "amount": 268.76,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00833",
+    "member_id": "M0036",
+    "amount": 343.41,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00836",
+    "member_id": "M0068",
+    "amount": 439.05,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00839",
+    "member_id": "M0052",
+    "amount": 30.1,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00842",
+    "member_id": "M0036",
+    "amount": 223.97,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00845",
+    "member_id": "M0026",
+    "amount": 288.66,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00848",
+    "member_id": "M0089",
+    "amount": 87.6,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00851",
+    "member_id": "M0083",
+    "amount": 160.05,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00854",
+    "member_id": "M0082",
+    "amount": 134.8,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00857",
+    "member_id": "M0017",
+    "amount": 329.1,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00860",
+    "member_id": "M0087",
+    "amount": 93.31,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00863",
+    "member_id": "M0019",
+    "amount": 410.55,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00866",
+    "member_id": "M0001",
+    "amount": 321.83,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00869",
+    "member_id": "M0048",
+    "amount": 212.37,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00872",
+    "member_id": "M0012",
+    "amount": 275.49,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00875",
+    "member_id": "M0081",
+    "amount": 66.13,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00878",
+    "member_id": "M0065",
+    "amount": 453.2,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00881",
+    "member_id": "M0077",
+    "amount": 398.2,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00884",
+    "member_id": "M0051",
+    "amount": 347.93,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00887",
+    "member_id": "M0028",
+    "amount": 198.88,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00890",
+    "member_id": "M0055",
+    "amount": 344.07,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00893",
+    "member_id": "M0012",
+    "amount": 26.1,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00896",
+    "member_id": "M0092",
+    "amount": 40.17,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00899",
+    "member_id": "M0083",
+    "amount": 166.83,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00902",
+    "member_id": "M0023",
+    "amount": 467.22,
+    "currency": "USD",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00905",
+    "member_id": "M0066",
+    "amount": 463.05,
+    "currency": "USD",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00908",
+    "member_id": "M0081",
+    "amount": 59.96,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00911",
+    "member_id": "M0074",
+    "amount": 405.48,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00914",
+    "member_id": "M0099",
+    "amount": 208.79,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00917",
+    "member_id": "M0089",
+    "amount": 384.32,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00920",
+    "member_id": "M0012",
+    "amount": 354.4,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00923",
+    "member_id": "M0031",
+    "amount": 191.21,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00926",
+    "member_id": "M0054",
+    "amount": 414.26,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00929",
+    "member_id": "M0006",
+    "amount": 198.95,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00932",
+    "member_id": "M0078",
+    "amount": 335.87,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00935",
+    "member_id": "M0025",
+    "amount": 24.05,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00938",
+    "member_id": "M0006",
+    "amount": 86.11,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00941",
+    "member_id": "M0007",
+    "amount": 191.98,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00944",
+    "member_id": "M0051",
+    "amount": 416.27,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00947",
+    "member_id": "M0067",
+    "amount": 238.38,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00950",
+    "member_id": "M0091",
+    "amount": 178.0,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00953",
+    "member_id": "M0069",
+    "amount": 233.8,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00956",
+    "member_id": "M0032",
+    "amount": 97.65,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00959",
+    "member_id": "M0077",
+    "amount": 83.13,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00962",
+    "member_id": "M0074",
+    "amount": 293.18,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00965",
+    "member_id": "M0032",
+    "amount": 101.3,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00968",
+    "member_id": "M0005",
+    "amount": 381.65,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00971",
+    "member_id": "M0039",
+    "amount": 161.91,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00974",
+    "member_id": "M0045",
+    "amount": 320.13,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00977",
+    "member_id": "M0014",
+    "amount": 71.09,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00980",
+    "member_id": "M0058",
+    "amount": 268.6,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00983",
+    "member_id": "M0080",
+    "amount": 316.69,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00986",
+    "member_id": "M0010",
+    "amount": 211.46,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00989",
+    "member_id": "M0025",
+    "amount": 272.74,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00992",
+    "member_id": "M0080",
+    "amount": 403.22,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00995",
+    "member_id": "M0085",
+    "amount": 155.75,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX00998",
+    "member_id": "M0066",
+    "amount": 18.07,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01001",
+    "member_id": "M0041",
+    "amount": 315.3,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01004",
+    "member_id": "M0030",
+    "amount": 259.89,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01007",
+    "member_id": "M0029",
+    "amount": 30.4,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01010",
+    "member_id": "M0001",
+    "amount": 490.09,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01013",
+    "member_id": "M0031",
+    "amount": 449.01,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01016",
+    "member_id": "M0079",
+    "amount": 56.49,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01019",
+    "member_id": "M0016",
+    "amount": 107.84,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01022",
+    "member_id": "M0058",
+    "amount": 405.75,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01025",
+    "member_id": "M0023",
+    "amount": 467.5,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01028",
+    "member_id": "M0010",
+    "amount": 125.06,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01031",
+    "member_id": "M0052",
+    "amount": 403.55,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01034",
+    "member_id": "M0006",
+    "amount": 377.22,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01037",
+    "member_id": "M0013",
+    "amount": 179.44,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01040",
+    "member_id": "M0057",
+    "amount": 118.63,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01043",
+    "member_id": "M0027",
+    "amount": 26.36,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01046",
+    "member_id": "M0013",
+    "amount": 62.83,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01049",
+    "member_id": "M0047",
+    "amount": 287.5,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01052",
+    "member_id": "M0067",
+    "amount": 296.85,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01055",
+    "member_id": "M0067",
+    "amount": 401.21,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01058",
+    "member_id": "M0077",
+    "amount": 98.48,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01061",
+    "member_id": "M0100",
+    "amount": 365.08,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01064",
+    "member_id": "M0035",
+    "amount": 363.86,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01067",
+    "member_id": "M0001",
+    "amount": 358.95,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01070",
+    "member_id": "M0015",
+    "amount": 227.25,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01073",
+    "member_id": "M0057",
+    "amount": 206.5,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01076",
+    "member_id": "M0054",
+    "amount": 255.48,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01079",
+    "member_id": "M0070",
+    "amount": 88.23,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01082",
+    "member_id": "M0039",
+    "amount": 403.66,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01085",
+    "member_id": "M0004",
+    "amount": 237.58,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01088",
+    "member_id": "M0003",
+    "amount": 382.42,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01091",
+    "member_id": "M0074",
+    "amount": 366.11,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01094",
+    "member_id": "M0061",
+    "amount": 225.7,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01097",
+    "member_id": "M0049",
+    "amount": 262.99,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01100",
+    "member_id": "M0076",
+    "amount": 298.43,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01103",
+    "member_id": "M0059",
+    "amount": 346.2,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01106",
+    "member_id": "M0029",
+    "amount": 41.83,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01109",
+    "member_id": "M0084",
+    "amount": 486.96,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01112",
+    "member_id": "M0035",
+    "amount": 275.22,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01115",
+    "member_id": "M0043",
+    "amount": 112.9,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01118",
+    "member_id": "M0077",
+    "amount": 388.69,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01121",
+    "member_id": "M0091",
+    "amount": 254.36,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01124",
+    "member_id": "M0022",
+    "amount": 98.03,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01127",
+    "member_id": "M0084",
+    "amount": 281.01,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01130",
+    "member_id": "M0050",
+    "amount": 201.75,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01133",
+    "member_id": "M0074",
+    "amount": 485.87,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01136",
+    "member_id": "M0032",
+    "amount": 458.32,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01139",
+    "member_id": "M0022",
+    "amount": 107.08,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01142",
+    "member_id": "M0094",
+    "amount": 447.63,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01145",
+    "member_id": "M0024",
+    "amount": 83.85,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01148",
+    "member_id": "M0029",
+    "amount": 61.57,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01151",
+    "member_id": "M0036",
+    "amount": 15.74,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01154",
+    "member_id": "M0093",
+    "amount": 58.95,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01157",
+    "member_id": "M0076",
+    "amount": 205.45,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01160",
+    "member_id": "M0092",
+    "amount": 77.66,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01163",
+    "member_id": "M0064",
+    "amount": 397.17,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01166",
+    "member_id": "M0024",
+    "amount": 120.04,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01169",
+    "member_id": "M0028",
+    "amount": 330.08,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01172",
+    "member_id": "M0052",
+    "amount": 201.87,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01175",
+    "member_id": "M0089",
+    "amount": 110.83,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01178",
+    "member_id": "M0051",
+    "amount": 39.01,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01181",
+    "member_id": "M0024",
+    "amount": 170.56,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01184",
+    "member_id": "M0089",
+    "amount": 455.83,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01187",
+    "member_id": "M0072",
+    "amount": 330.68,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01190",
+    "member_id": "M0028",
+    "amount": 402.33,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01193",
+    "member_id": "M0001",
+    "amount": 173.67,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01196",
+    "member_id": "M0087",
+    "amount": 309.8,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01199",
+    "member_id": "M0085",
+    "amount": 447.88,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01202",
+    "member_id": "M0016",
+    "amount": -276.57,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01205",
+    "member_id": "M0008",
+    "amount": -115.29,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01208",
+    "member_id": "M0068",
+    "amount": 225.82,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01211",
+    "member_id": "M0088",
+    "amount": 490.47,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01214",
+    "member_id": "M0009",
+    "amount": 264.9,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01217",
+    "member_id": "M0085",
+    "amount": 325.09,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01220",
+    "member_id": "M0087",
+    "amount": 36.47,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01223",
+    "member_id": "M0033",
+    "amount": 422.9,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01226",
+    "member_id": "M0094",
+    "amount": 468.9,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01229",
+    "member_id": "M0005",
+    "amount": 466.18,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01232",
+    "member_id": "M0023",
+    "amount": 264.64,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01235",
+    "member_id": "M0005",
+    "amount": 255.33,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01238",
+    "member_id": "M0011",
+    "amount": 474.64,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01241",
+    "member_id": "M0074",
+    "amount": 88.83,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01244",
+    "member_id": "M0061",
+    "amount": 150.04,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01247",
+    "member_id": "M0036",
+    "amount": 82.28,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01250",
+    "member_id": "M0009",
+    "amount": 499.11,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01253",
+    "member_id": "M0015",
+    "amount": 54.81,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01256",
+    "member_id": "M0005",
+    "amount": 63.44,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01259",
+    "member_id": "M0096",
+    "amount": 20.04,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01262",
+    "member_id": "M0040",
+    "amount": 113.65,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01265",
+    "member_id": "M0074",
+    "amount": 408.51,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01268",
+    "member_id": "M0029",
+    "amount": 124.3,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01271",
+    "member_id": "M0011",
+    "amount": 65.14,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01274",
+    "member_id": "M0077",
+    "amount": 37.95,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01277",
+    "member_id": "M0005",
+    "amount": 215.76,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01280",
+    "member_id": "M0048",
+    "amount": 172.6,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01283",
+    "member_id": "M0030",
+    "amount": 19.93,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01286",
+    "member_id": "M0084",
+    "amount": 343.59,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01289",
+    "member_id": "M0090",
+    "amount": 193.31,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01292",
+    "member_id": "M0025",
+    "amount": 218.03,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01295",
+    "member_id": "M0093",
+    "amount": 161.59,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01298",
+    "member_id": "M0003",
+    "amount": 397.81,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01301",
+    "member_id": "M0007",
+    "amount": 406.07,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01304",
+    "member_id": "M0028",
+    "amount": 349.32,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01307",
+    "member_id": "M0078",
+    "amount": 432.57,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01310",
+    "member_id": "M0099",
+    "amount": 176.91,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01313",
+    "member_id": "M0085",
+    "amount": 69.68,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01316",
+    "member_id": "M0022",
+    "amount": 453.95,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01319",
+    "member_id": "M0002",
+    "amount": 476.35,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01322",
+    "member_id": "M0040",
+    "amount": 167.26,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01325",
+    "member_id": "M0090",
+    "amount": 464.22,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01328",
+    "member_id": "M0016",
+    "amount": 410.31,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01331",
+    "member_id": "M0088",
+    "amount": 345.14,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01334",
+    "member_id": "M0057",
+    "amount": 181.62,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01337",
+    "member_id": "M0023",
+    "amount": 267.92,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01340",
+    "member_id": "M0082",
+    "amount": 343.98,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01343",
+    "member_id": "M0029",
+    "amount": 431.21,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01346",
+    "member_id": "M0093",
+    "amount": 267.01,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01349",
+    "member_id": "M0047",
+    "amount": 334.36,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01352",
+    "member_id": "M0093",
+    "amount": 170.42,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01355",
+    "member_id": "M0022",
+    "amount": 180.27,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01358",
+    "member_id": "M0096",
+    "amount": 437.54,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01361",
+    "member_id": "M0027",
+    "amount": 402.41,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01364",
+    "member_id": "M0083",
+    "amount": 424.64,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01367",
+    "member_id": "M0084",
+    "amount": 196.25,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01370",
+    "member_id": "M0011",
+    "amount": 153.14,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01373",
+    "member_id": "M0016",
+    "amount": 151.53,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01376",
+    "member_id": "M0032",
+    "amount": 475.1,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01379",
+    "member_id": "M0063",
+    "amount": 253.93,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01382",
+    "member_id": "M0019",
+    "amount": 465.88,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01385",
+    "member_id": "M0028",
+    "amount": 479.22,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01388",
+    "member_id": "M0027",
+    "amount": 10.89,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01391",
+    "member_id": "M0091",
+    "amount": 249.57,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01394",
+    "member_id": "M0002",
+    "amount": 80.84,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01397",
+    "member_id": "M0027",
+    "amount": 257.69,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01400",
+    "member_id": "M0009",
+    "amount": 471.46,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01403",
+    "member_id": "M0006",
+    "amount": 13.19,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01406",
+    "member_id": "M0096",
+    "amount": 320.44,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01409",
+    "member_id": "M0065",
+    "amount": 63.53,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01412",
+    "member_id": "M0099",
+    "amount": 485.58,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01415",
+    "member_id": "M0075",
+    "amount": 216.24,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01418",
+    "member_id": "M0097",
+    "amount": 440.11,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01421",
+    "member_id": "M0087",
+    "amount": 464.62,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01424",
+    "member_id": "M0084",
+    "amount": 482.87,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01427",
+    "member_id": "M0027",
+    "amount": 309.86,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01430",
+    "member_id": "M0033",
+    "amount": 410.28,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01433",
+    "member_id": "M0054",
+    "amount": 78.51,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01436",
+    "member_id": "M0034",
+    "amount": 399.77,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01439",
+    "member_id": "M0095",
+    "amount": 28.64,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01442",
+    "member_id": "M0085",
+    "amount": 258.18,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01445",
+    "member_id": "M0026",
+    "amount": 53.85,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01448",
+    "member_id": "M0013",
+    "amount": 270.34,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01451",
+    "member_id": "M0022",
+    "amount": 267.16,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01454",
+    "member_id": "M0022",
+    "amount": 431.24,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01457",
+    "member_id": "M0042",
+    "amount": 373.28,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01460",
+    "member_id": "M0032",
+    "amount": 290.16,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01463",
+    "member_id": "M0065",
+    "amount": 111.2,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01466",
+    "member_id": "M0006",
+    "amount": 133.76,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01469",
+    "member_id": "M0005",
+    "amount": 357.0,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01472",
+    "member_id": "M0072",
+    "amount": 485.32,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01475",
+    "member_id": "M0082",
+    "amount": 184.35,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01478",
+    "member_id": "M0057",
+    "amount": 91.98,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01481",
+    "member_id": "M0038",
+    "amount": 454.79,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01484",
+    "member_id": "M0058",
+    "amount": 343.92,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01487",
+    "member_id": "M0057",
+    "amount": 168.69,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01490",
+    "member_id": "M0075",
+    "amount": 295.02,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01493",
+    "member_id": "M0085",
+    "amount": 343.52,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01496",
+    "member_id": "M0001",
+    "amount": 52.24,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01499",
+    "member_id": "M0075",
+    "amount": 436.83,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01502",
+    "member_id": "M0052",
+    "amount": 121.11,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01505",
+    "member_id": "M0047",
+    "amount": 203.14,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01508",
+    "member_id": "M0059",
+    "amount": 15.58,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01511",
+    "member_id": "M0019",
+    "amount": 245.67,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01514",
+    "member_id": "M0026",
+    "amount": 130.22,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01517",
+    "member_id": "M0033",
+    "amount": 307.26,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01520",
+    "member_id": "M0010",
+    "amount": 107.65,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01523",
+    "member_id": "M0002",
+    "amount": 183.27,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01526",
+    "member_id": "M0087",
+    "amount": 123.65,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01529",
+    "member_id": "M0094",
+    "amount": 234.69,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01532",
+    "member_id": "M0007",
+    "amount": 389.97,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01535",
+    "member_id": "M0016",
+    "amount": 209.26,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01538",
+    "member_id": "M0011",
+    "amount": 428.55,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01541",
+    "member_id": "M0057",
+    "amount": 87.97,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01544",
+    "member_id": "M0016",
+    "amount": 411.42,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01547",
+    "member_id": "M0036",
+    "amount": 396.89,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01550",
+    "member_id": "M0015",
+    "amount": 158.59,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01553",
+    "member_id": "M0070",
+    "amount": 17.15,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01556",
+    "member_id": "M0036",
+    "amount": 49.36,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01559",
+    "member_id": "M0094",
+    "amount": 221.15,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01562",
+    "member_id": "M0014",
+    "amount": 77.15,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01565",
+    "member_id": "M0014",
+    "amount": 485.55,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01568",
+    "member_id": "M0062",
+    "amount": 243.5,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01571",
+    "member_id": "M0033",
+    "amount": 461.13,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01574",
+    "member_id": "M0021",
+    "amount": 356.05,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01577",
+    "member_id": "M0038",
+    "amount": 336.0,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01580",
+    "member_id": "M0003",
+    "amount": 72.59,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01583",
+    "member_id": "M0015",
+    "amount": 139.02,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01586",
+    "member_id": "M0033",
+    "amount": 64.85,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01589",
+    "member_id": "M0008",
+    "amount": 261.03,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01592",
+    "member_id": "M0002",
+    "amount": 195.89,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01595",
+    "member_id": "M0057",
+    "amount": 472.92,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01598",
+    "member_id": "M0071",
+    "amount": 156.51,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01601",
+    "member_id": "M0015",
+    "amount": 30.91,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01604",
+    "member_id": "M0049",
+    "amount": 264.36,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01607",
+    "member_id": "M0073",
+    "amount": 313.44,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01610",
+    "member_id": "M0005",
+    "amount": 229.41,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01613",
+    "member_id": "M0071",
+    "amount": 102.73,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01616",
+    "member_id": "M0007",
+    "amount": 469.43,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01619",
+    "member_id": "M0074",
+    "amount": 491.05,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01622",
+    "member_id": "M0035",
+    "amount": 118.73,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01625",
+    "member_id": "M0081",
+    "amount": 350.8,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01628",
+    "member_id": "M0007",
+    "amount": 226.47,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01631",
+    "member_id": "M0032",
+    "amount": 216.39,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01634",
+    "member_id": "M0059",
+    "amount": 15.04,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01637",
+    "member_id": "M0040",
+    "amount": 490.69,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01640",
+    "member_id": "M0097",
+    "amount": 145.17,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01643",
+    "member_id": "M0098",
+    "amount": 228.96,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01646",
+    "member_id": "M0057",
+    "amount": 406.73,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01649",
+    "member_id": "M0003",
+    "amount": 364.76,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01652",
+    "member_id": "M0003",
+    "amount": 418.42,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01655",
+    "member_id": "M0005",
+    "amount": 41.19,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01658",
+    "member_id": "M0012",
+    "amount": 283.07,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01661",
+    "member_id": "M0047",
+    "amount": 291.09,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01664",
+    "member_id": "M0021",
+    "amount": 494.68,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01667",
+    "member_id": "M0099",
+    "amount": 479.77,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01670",
+    "member_id": "M0002",
+    "amount": 62.44,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01673",
+    "member_id": "M0061",
+    "amount": 171.83,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01676",
+    "member_id": "M0049",
+    "amount": 190.37,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01679",
+    "member_id": "M0068",
+    "amount": 498.31,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01682",
+    "member_id": "M0023",
+    "amount": 313.73,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01685",
+    "member_id": "M0036",
+    "amount": 117.58,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01688",
+    "member_id": "M0002",
+    "amount": 412.22,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01691",
+    "member_id": "M0043",
+    "amount": 264.46,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01694",
+    "member_id": "M0064",
+    "amount": 430.54,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01697",
+    "member_id": "M0052",
+    "amount": 175.89,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01700",
+    "member_id": "M0091",
+    "amount": 120.36,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01703",
+    "member_id": "M0066",
+    "amount": 257.25,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01706",
+    "member_id": "M0035",
+    "amount": 363.48,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01709",
+    "member_id": "M0023",
+    "amount": 61.52,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01712",
+    "member_id": "M0025",
+    "amount": 248.23,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01715",
+    "member_id": "M0024",
+    "amount": 475.35,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01718",
+    "member_id": "M0068",
+    "amount": 262.97,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01721",
+    "member_id": "M0010",
+    "amount": 493.88,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01724",
+    "member_id": "M0038",
+    "amount": 383.74,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01727",
+    "member_id": "M0071",
+    "amount": 31.8,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01730",
+    "member_id": "M0086",
+    "amount": 414.48,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01733",
+    "member_id": "M0003",
+    "amount": 63.97,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01736",
+    "member_id": "M0096",
+    "amount": 65.47,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01739",
+    "member_id": "M0010",
+    "amount": 471.87,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01742",
+    "member_id": "M0070",
+    "amount": 136.63,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01745",
+    "member_id": "M0018",
+    "amount": 96.95,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01748",
+    "member_id": "M0006",
+    "amount": 116.71,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01751",
+    "member_id": "M0041",
+    "amount": 197.93,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01754",
+    "member_id": "M0062",
+    "amount": 213.37,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01757",
+    "member_id": "M0060",
+    "amount": 145.51,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01760",
+    "member_id": "M0006",
+    "amount": 493.16,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01763",
+    "member_id": "M0084",
+    "amount": 15.17,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01766",
+    "member_id": "M0091",
+    "amount": 290.31,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01769",
+    "member_id": "M0036",
+    "amount": 225.55,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01772",
+    "member_id": "M0016",
+    "amount": 183.37,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01775",
+    "member_id": "M0096",
+    "amount": 61.3,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01778",
+    "member_id": "M0084",
+    "amount": 113.68,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01781",
+    "member_id": "M0091",
+    "amount": 301.82,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01784",
+    "member_id": "M0096",
+    "amount": 228.36,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01787",
+    "member_id": "M0036",
+    "amount": 40.27,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01790",
+    "member_id": "M0005",
+    "amount": 240.76,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01793",
+    "member_id": "M0016",
+    "amount": 208.88,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01796",
+    "member_id": "M0096",
+    "amount": 262.05,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01799",
+    "member_id": "M0039",
+    "amount": 478.88,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01802",
+    "member_id": "M0052",
+    "amount": 275.31,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01805",
+    "member_id": "M0036",
+    "amount": 181.76,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01808",
+    "member_id": "M0077",
+    "amount": 351.21,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01811",
+    "member_id": "M0050",
+    "amount": 143.25,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01814",
+    "member_id": "M0076",
+    "amount": 468.27,
+    "currency": "AED",
+    "transaction_date": "2026-11-12",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01817",
+    "member_id": "M0051",
+    "amount": 393.06,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01820",
+    "member_id": "M0059",
+    "amount": 122.87,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01823",
+    "member_id": "M0006",
+    "amount": 44.1,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01826",
+    "member_id": "M0080",
+    "amount": 255.35,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01829",
+    "member_id": "M0038",
+    "amount": 492.77,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01832",
+    "member_id": "M0093",
+    "amount": 366.72,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01835",
+    "member_id": "M0019",
+    "amount": 138.06,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01838",
+    "member_id": "M0073",
+    "amount": 210.43,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01841",
+    "member_id": "M0067",
+    "amount": 421.45,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01844",
+    "member_id": "M0051",
+    "amount": 27.77,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01847",
+    "member_id": "M0031",
+    "amount": 323.65,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01850",
+    "member_id": "M0005",
+    "amount": 432.49,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01853",
+    "member_id": "M0019",
+    "amount": 167.17,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01856",
+    "member_id": "M0015",
+    "amount": 188.93,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01859",
+    "member_id": "M0068",
+    "amount": 255.95,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01862",
+    "member_id": "M0073",
+    "amount": 415.9,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01865",
+    "member_id": "M0034",
+    "amount": 336.97,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01868",
+    "member_id": "M0024",
+    "amount": 114.23,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01871",
+    "member_id": "M0028",
+    "amount": 260.9,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01874",
+    "member_id": "M0068",
+    "amount": 322.81,
+    "currency": "AED",
+    "transaction_date": "2026-11-09",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01877",
+    "member_id": "M0004",
+    "amount": 413.23,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01880",
+    "member_id": "M0040",
+    "amount": 389.64,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01883",
+    "member_id": "M0089",
+    "amount": 108.33,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01886",
+    "member_id": "M0017",
+    "amount": 173.61,
+    "currency": "AED",
+    "transaction_date": "2026-11-22",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01889",
+    "member_id": "M0003",
+    "amount": 261.61,
+    "currency": "AED",
+    "transaction_date": "2026-11-02",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01892",
+    "member_id": "M0044",
+    "amount": 186.72,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01895",
+    "member_id": "M0021",
+    "amount": 429.83,
+    "currency": "AED",
+    "transaction_date": "2026-11-05",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01898",
+    "member_id": "M0032",
+    "amount": 391.54,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01901",
+    "member_id": "M0014",
+    "amount": 212.45,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01904",
+    "member_id": "M0100",
+    "amount": 466.6,
+    "currency": "AED",
+    "transaction_date": "2026-11-18",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01907",
+    "member_id": "M0055",
+    "amount": 78.86,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01910",
+    "member_id": "M0041",
+    "amount": 448.28,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01913",
+    "member_id": "M0015",
+    "amount": 453.0,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01916",
+    "member_id": "M0074",
+    "amount": 220.31,
+    "currency": "AED",
+    "transaction_date": "2026-11-16",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01919",
+    "member_id": "M0098",
+    "amount": 290.03,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01922",
+    "member_id": "M0008",
+    "amount": 479.05,
+    "currency": "AED",
+    "transaction_date": "2026-11-08",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01925",
+    "member_id": "M0025",
+    "amount": 72.0,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01928",
+    "member_id": "M0054",
+    "amount": 36.97,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01931",
+    "member_id": "M0087",
+    "amount": 473.69,
+    "currency": "AED",
+    "transaction_date": "2026-11-07",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01934",
+    "member_id": "M0061",
+    "amount": 435.45,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01937",
+    "member_id": "M0055",
+    "amount": 261.11,
+    "currency": "AED",
+    "transaction_date": "2026-11-17",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01940",
+    "member_id": "M0048",
+    "amount": 221.42,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01943",
+    "member_id": "M0030",
+    "amount": 262.06,
+    "currency": "AED",
+    "transaction_date": "2026-11-19",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01946",
+    "member_id": "M0091",
+    "amount": 203.81,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01949",
+    "member_id": "M0071",
+    "amount": 307.46,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01952",
+    "member_id": "M0008",
+    "amount": 298.79,
+    "currency": "AED",
+    "transaction_date": "2026-11-04",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01955",
+    "member_id": "M0012",
+    "amount": 286.57,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01958",
+    "member_id": "M0066",
+    "amount": 81.04,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01961",
+    "member_id": "M0013",
+    "amount": 278.16,
+    "currency": "AED",
+    "transaction_date": "2026-11-06",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01964",
+    "member_id": "M0016",
+    "amount": 292.84,
+    "currency": "AED",
+    "transaction_date": "2026-11-11",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01967",
+    "member_id": "M0076",
+    "amount": 55.98,
+    "currency": "AED",
+    "transaction_date": "2026-11-24",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01970",
+    "member_id": "M0069",
+    "amount": 442.5,
+    "currency": "AED",
+    "transaction_date": "2026-11-13",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01973",
+    "member_id": "M0044",
+    "amount": 136.05,
+    "currency": "AED",
+    "transaction_date": "2026-11-15",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01976",
+    "member_id": "M0073",
+    "amount": 447.24,
+    "currency": "AED",
+    "transaction_date": "2026-11-23",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01979",
+    "member_id": "M0006",
+    "amount": 392.8,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01982",
+    "member_id": "M0008",
+    "amount": 61.11,
+    "currency": "AED",
+    "transaction_date": "2026-11-21",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01985",
+    "member_id": "M0091",
+    "amount": 367.02,
+    "currency": "AED",
+    "transaction_date": "2026-11-20",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01988",
+    "member_id": "M0075",
+    "amount": 104.33,
+    "currency": "AED",
+    "transaction_date": "2026-11-10",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01991",
+    "member_id": "M0056",
+    "amount": 173.66,
+    "currency": "AED",
+    "transaction_date": "2026-11-01",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01994",
+    "member_id": "M0094",
+    "amount": 32.26,
+    "currency": "AED",
+    "transaction_date": "2026-11-03",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX01997",
+    "member_id": "M0022",
+    "amount": 196.01,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  },
+  {
+    "partner_id": "shopco",
+    "transaction_id": "TX02000",
+    "member_id": "M0026",
+    "amount": 283.44,
+    "currency": "AED",
+    "transaction_date": "2026-11-14",
+    "campaign_id": null
+  }
+]
