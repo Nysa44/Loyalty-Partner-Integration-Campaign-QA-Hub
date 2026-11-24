@@ -1,6 +1,6 @@
 # Orbit Rewards — Loyalty Partner Integration & Campaign QA Hub
 
-**SIMULATED portfolio project.** Orbit Rewards, Northstar Hotels, Cedar Retail, Waypoint Car Rental and all members/transactions are fictional. This is not affiliated with Emirates, Skywards, or any airline.
+**SIMULATED portfolio project.** Orbit Rewards, Northstar Hotels, Cedar Retail, Waypoint Car Rental and all members/transactions are fictional. This is not affiliated with any airline.
 
 A compact FastAPI + SQLite loyalty operations back office demonstrating partner feed ingestion, validation, duplicate-safe points posting, reconciliation, campaign QA, monitoring, tier calculation, audit logging and evidence-grounded AI triage.
 
